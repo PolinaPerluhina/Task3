@@ -1,0 +1,98 @@
+[
+  {
+    "purchaseWeightTax": 0.04,
+    "purchaseWeight": 30,
+    "class": "vouchers.ShoppingVoucher",
+    "voucher_type": "SHOPPING",
+    "duration": 1,
+    "transport_type": "BUS",
+    "feeding_type": "NO"
+  },
+  {
+    "museums": [
+      "mus1",
+      "mus2"
+    ],
+    "museumItemTax": 0.03,
+    "guide": true,
+    "guideCost": 12.3,
+    "class": "vouchers.EducationVoucher",
+    "voucher_type": "EDUCATION",
+    "duration": 3,
+    "transport_type": "BUS",
+    "feeding_type": "NO"
+  },
+  {
+    "purchaseWeightTax": 0.03,
+    "purchaseWeight": 12,
+    "class": "vouchers.ShoppingVoucher",
+    "voucher_type": "SHOPPING",
+    "duration": 2,
+    "transport_type": "TRAIN",
+    "feeding_type": "LUNCH"
+  },
+  {
+    "sports": [
+      "skiing",
+      "snowboarding"
+    ],
+    "sportItemTax": 12,
+    "class": "vouchers.SportVoucher",
+    "voucher_type": "SPORT",
+    "duration": 7,
+    "transport_type": "TRAIN",
+    "feeding_type": "SUPPER"
+  },
+  {
+    "museums": [
+      "mus1",
+      "mus2",
+      "mus2"
+    ],
+    "museumItemTax": 0.05,
+    "guide": true,
+    "guideCost": 10.0,
+    "class": "vouchers.EducationVoucher",
+    "voucher_type": "EDUCATION",
+    "duration": 1,
+    "transport_type": "TRAIN",
+    "feeding_type": "BREAKFAST"
+  },
+  {
+    "excursions": [
+      "SAFARI",
+      "HISTORICAL"
+    ],
+    "excursionsCount": 0,
+    "class": "vouchers.RestVoucher",
+    "voucher_type": "REST",
+    "duration": 7,
+    "transport_type": "TRAIN",
+    "feeding_type": "LUNCH"
+  },
+  {
+    "excursions": [
+      "SAFARI",
+      "CONCERT",
+      "ARCHITECTURAL"
+    ],
+    "excursionsCount": 0,
+    "class": "vouchers.RestVoucher",
+    "voucher_type": "REST",
+    "duration": 20,
+    "transport_type": "SHIP",
+    "feeding_type": "NO"
+  },
+  {
+    "excursions": [
+      "SAFARI",
+      "HISTORICAL"
+    ],
+    "excursionsCount": 0,
+    "class": "vouchers.RestVoucher",
+    "voucher_type": "REST",
+    "duration": 12,
+    "transport_type": "PLANE",
+    "feeding_type": "ALL_INCLUSIVE"
+  }
+]

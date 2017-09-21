@@ -1,0 +1,8 @@
+Proposal of shopping type voucher, duration - 1 day. As transport will be used bus, feeding not included. 
+Proposal of education type voucher, duration - 3 days. As transport will be used bus, feeding not included. 
+Proposal of shopping type voucher, duration - 2 days. As transport will be used train, and feeding will include lunch. 
+Proposal of sport type voucher, duration - 7 days. As transport will be used train, and feeding will include supper. 
+Proposal of education type voucher, duration - 1 day. As transport will be used train, and feeding will include breakfast. 
+Proposal of rest type voucher, duration - 7 days. As transport will be used train, and feeding will include lunch. 
+Proposal of rest type voucher, duration - 20 days. As transport will be used ship, feeding not included. 
+Proposal of rest type voucher, duration - 12 days. As transport will be used plane, and feeding will include all_inclusive. 
